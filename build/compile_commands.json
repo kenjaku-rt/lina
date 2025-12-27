@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kokushibo/Projects/github/lina/build",
+  "command": "/run/current-system/sw/bin/gcc -I/nix/store/dksjvr69ckglyw1k2ss1qgshhcix73p8-python3-3.12.8/include/python3.12 -I/nix/store/748d9nawm29vgw5sl8x8d5vplp5priah-julia-bin-1.11.3/include/julia -g -std=gnu11 -Wall -Wextra -g -o CMakeFiles/lina_run.dir/src/main.c.o -c /home/kokushibo/Projects/github/lina/src/main.c",
+  "file": "/home/kokushibo/Projects/github/lina/src/main.c",
+  "output": "CMakeFiles/lina_run.dir/src/main.c.o"
+}
+]

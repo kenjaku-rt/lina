@@ -1,0 +1,3 @@
+/home/kokushibo/Projects/github/lina/build/CMakeFiles/lina_run.dir
+/home/kokushibo/Projects/github/lina/build/CMakeFiles/edit_cache.dir
+/home/kokushibo/Projects/github/lina/build/CMakeFiles/rebuild_cache.dir
